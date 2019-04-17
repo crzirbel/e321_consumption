@@ -1,0 +1,11 @@
+.httr-oauth
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.csv
+*.xlsx
+*.pdf
+*.pptx
+*.tiff
+
